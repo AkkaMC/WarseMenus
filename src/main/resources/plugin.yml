@@ -1,0 +1,6 @@
+name: WarseMenus
+version: ${project.version}
+main: dev.warse.warsemenus.WarseMenus
+authors: [ Jak3 ]
+description: Warse Menu System
+website: warse.dev
